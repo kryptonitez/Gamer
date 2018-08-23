@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gamer</string>
+    <string name="roster">Team Roster</string>
+    <string name="score_book">Score Book</string>
+    <string name="stats">Stats</string>
+    <string name="add_player">Add</string>
+    <string name="remove_player">Remove</string>
+    <string name="player_name">Player Name</string>
+</resources>
